@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Multiutility And Multiconvertor With Calculator application"
